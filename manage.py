@@ -2,6 +2,9 @@
 import os
 import sys
 
+/* a*/
+
+
 if __name__ == '__main__':
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'tango_with_django_project.settings')
     try:
