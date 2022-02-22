@@ -1,5 +1,4 @@
 #!/usr/bin/env python
-from email.charset import add_alias
 import os
 import sys
 
